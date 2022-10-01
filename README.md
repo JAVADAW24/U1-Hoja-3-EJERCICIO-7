@@ -1,8 +1,6 @@
 # EJERCICIO-7-Hoja-3
 contabilizar con JAVA y manipular OPERADORES (hormigas y arañas)
 
-![732](https://user-images.githubusercontent.com/80227002/193427935-c4a9f453-0a07-4a35-b162-3545f4000f28.png)
-![733](https://user-images.githubusercontent.com/80227002/193427937-cf6bedf4-a39d-43a1-8bd3-43fc1acbae80.png)
 
 7. Un biólogo está realizando un estudio de distintas especies de invertebrados y 
 necesita una aplicación que le ayude a contabilizar el número de patas que 
@@ -15,6 +13,10 @@ proporcionar:
     • El número de cochinillas capturadas (14 patas)
 
     La aplicación debe mostrar el número total de patas
+ 
+ ![732](https://user-images.githubusercontent.com/80227002/193427935-c4a9f453-0a07-4a35-b162-3545f4000f28.png)
+![733](https://user-images.githubusercontent.com/80227002/193427937-cf6bedf4-a39d-43a1-8bd3-43fc1acbae80.png)
+
  
 ```java
 package com.solomongo.ejercicio7_hoja3;
