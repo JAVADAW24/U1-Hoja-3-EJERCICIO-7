@@ -1,7 +1,6 @@
 # EJERCICIO-7-Hoja-3
 contabilizar con JAVA y manipular OPERADORES (hormigas y arañas)
 
-![731](https://user-images.githubusercontent.com/80227002/193427931-ff2a8e0f-b6b7-4bfb-ae1b-eb235ce58ccf.png)
 ![732](https://user-images.githubusercontent.com/80227002/193427935-c4a9f453-0a07-4a35-b162-3545f4000f28.png)
 ![733](https://user-images.githubusercontent.com/80227002/193427937-cf6bedf4-a39d-43a1-8bd3-43fc1acbae80.png)
 
